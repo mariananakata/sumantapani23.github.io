@@ -1,0 +1,82 @@
+### **PHASE 2: THE WEBSITE (The "Face")**
+
+Now we turn that repository into a live, professional website (`sumantapani.github.io`) that ranks on Google.
+
+**Step 2.1: Create the Index File**
+1.  In your repo `sumantapani.github.io`, click **Add file** -> **Create new file**.
+2.  Name the file: `index.html`
+3.  **Paste this exact HTML code.** (I have pre-injected the SEO Schema and SXO structure).
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sumanta Pani | AI Product Manager & Ops Strategist</title>
+    <meta name="description" content="Portfolio of Sumanta Pani, Senior AI Product Manager. Expert in Generative AI, Python, and Fintech Operations. Builder of OpenTeller.">
+    
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Sumanta Pani",
+      "jobTitle": "AI Product Manager",
+      "url": "https://sumantapani.github.io",
+      "sameAs": [
+        "https://www.linkedin.com/in/sumanta-pani-ai-product-manager/"
+      ],
+      "knowsAbout": ["Generative AI", "Product Strategy", "Python", "RBI Compliance", "Fintech"]
+    }
+    </script>
+
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #fcfcfc; }
+        header { text-align: center; padding: 50px 0; border-bottom: 2px solid #eaeaea; }
+        h1 { font-size: 2.5rem; margin-bottom: 10px; color: #1a1a2e; }
+        .subtitle { color: #666; font-size: 1.2rem; font-weight: 300; }
+        .btn { display: inline-block; background: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; margin-top: 20px; font-weight: bold; }
+        .btn:hover { background: #0056b3; }
+        section { margin: 40px 0; }
+        .project-card { border: 1px solid #ddd; padding: 20px; border-radius: 8px; background: white; margin-bottom: 20px; box-shadow: 0 2px 5px rgba(0,0,0,0.05); }
+        .project-title { font-size: 1.4rem; color: #007bff; font-weight: bold; }
+        footer { text-align: center; margin-top: 50px; font-size: 0.9rem; color: #888; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Sumanta Pani</h1>
+        <p class="subtitle">Senior Product Manager | Bridging Operations & Generative AI</p>
+        <a href="https://www.linkedin.com/in/sumanta-pani-ai-product-manager/" class="btn">View LinkedIn Profile</a>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>I don't just manage backlogs; I build products that survive operational chaos. With 11+ years in Retail & Banking Operations (Xiaomi, Oppo, Axis Bank) and a technical focus on <strong>Generative AI & Python</strong>, I bridge the gap between business stakeholders and engineering teams.</p>
+    </section>
+
+    <section>
+        <h2>Featured Projects (Live Prototypes)</h2>
+        
+        <div class="project-card">
+            <div class="project-title">OpenTeller Protocol 🎙️</div>
+            <p><strong>Voice-First Banking Interface (RBI Compliant)</strong></p>
+            <p>Solved accessibility for visually impaired users using Python & OpenAI Whisper. Designed to bypass traditional UIs for secure financial transactions.</p>
+            <a href="https://openteller-protocol-sumanta.streamlit.app/" target="_blank">Launch Prototype &rarr;</a>
+        </div>
+
+        <div class="project-card">
+            <div class="project-title">NexusAI Engine 🧠</div>
+            <p><strong>Market Intelligence Knowledge Graph</strong></p>
+            <p>Automated competitor analysis by transforming unstructured text into visual knowledge maps using NLP and NetworkX.</p>
+            <a href="https://nexus-ai-sumanta.streamlit.app" target="_blank">View Knowledge Graph &rarr;</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Sumanta Pani. Hosted on GitHub Pages.</p>
+    </footer>
+
+</body>
+</html>
