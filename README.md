@@ -4,7 +4,7 @@
 ![Status](https://img.shields.io/badge/Status-Live%20Prototype-success) ![Tech Stack](https://img.shields.io/badge/Tech-Python%20|%20Streamlit%20|%20LLM-blue) ![Role](https://img.shields.io/badge/Role-AI%20Product%20Manager-purple)
 
 **Portfolio Architect:** [Sumanta Pani](https://www.linkedin.com/in/sumanta-pani-ai-product-manager/)
-**Live Prototype:** [openteller-protocol-sumanta.streamlit.app](https://openteller-protocol-sumanta.streamlit.app/)
+**Live Prototype:** (https://openteller-protocol.streamlit.app)
 
 ---
 
